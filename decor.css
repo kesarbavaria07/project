@@ -19,16 +19,6 @@
       text-align: left;
       border: 1px solid rgba(255, 255, 255, 0.2);
     }
-.password-box {
-  position: relative;
-  width: 250px;
-}
-
-.password-box input {
-  width: 100%;
-  padding: 8px 35px 8px 8px;
-}
-
 .eye {
   position: absolute;
   right: 8px;
@@ -68,4 +58,5 @@ button {
 .ad{
     height: 450px;
     width: 300px;
+
 }
